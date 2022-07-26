@@ -8,6 +8,7 @@ public class Main {
         DLAccount.withdraw(100.0);
 
         DLAccount.deposit(50.0);
+        //this withdraw will fail
         DLAccount.withdraw(1000.0);
 
         DLAccount.deposit(51.0);
