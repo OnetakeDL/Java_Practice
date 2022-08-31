@@ -1,0 +1,8 @@
+package polymorphism.a01polymorphismdemo1;
+
+public class Administrator extends Person {
+    @Override
+    public void showInfo() {
+        System.out.println("管理员的信息为：" + getName() + ", " + getAge());
+    }
+}
