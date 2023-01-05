@@ -1,2 +1,2 @@
 # Java_Practice
-My own learn process of Java
+My own learning process of Java
